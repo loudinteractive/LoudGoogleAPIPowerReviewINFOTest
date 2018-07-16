@@ -1,0 +1,91 @@
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google Custom Search API.exe.config
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google Custom Search API.exe
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google Custom Search API.pdb
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google.Apis.Core.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google.Apis.Customsearch.v1.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google.Apis.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\log4net.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\System.IO.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\System.Net.Http.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\System.Runtime.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\System.Threading.Tasks.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Zlib.Portable.dll
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google.Apis.pdb
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google.Apis.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google.Apis.Core.pdb
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google.Apis.Core.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google.Apis.Customsearch.v1.pdb
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google.Apis.Customsearch.v1.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\log4net.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\System.IO.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\System.Net.Http.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\System.Runtime.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\System.Threading.Tasks.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\Zlib.Portable.xml
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\obj\x86\Debug\Google Custom Search API.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\obj\x86\Debug\Google Custom Search API.exe
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\obj\x86\Debug\Google Custom Search API.pdb
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\search.txt
+C:\Users\marti\Documents\CustomSearchAPI\Google Custom Search API\bin\Debug\urls.txt
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\search.txt
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\urls.txt
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Google Custom Search API.exe.config
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Google Custom Search API.exe
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Google Custom Search API.pdb
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Google.Apis.Core.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Google.Apis.Customsearch.v1.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Google.Apis.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\log4net.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\System.IO.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\System.Net.Http.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\System.Runtime.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\System.Threading.Tasks.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Zlib.Portable.dll
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Google.Apis.pdb
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Google.Apis.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Google.Apis.Core.pdb
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Google.Apis.Core.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Google.Apis.Customsearch.v1.pdb
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Google.Apis.Customsearch.v1.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\log4net.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\System.IO.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\System.Net.Http.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\System.Runtime.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\System.Threading.Tasks.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\Zlib.Portable.xml
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\obj\x86\Debug\Google Custom Search API.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\obj\x86\Debug\Google Custom Search API.exe
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\obj\x86\Debug\Google Custom Search API.pdb
+C:\Users\marti\Documents\Visual Studio 2017\Projects\LoudDoPowerViewsGoogleSiteSearch\Google Custom Search API\bin\Debug\sqlite3.dll
