@@ -1,0 +1,2 @@
+# LoudGoogleAPIPowerReviewINFOTest
+Second, Loud Interactive performed a simple test to validate whether a URL was indexed by Google. This tool uses the Google API and the same export of 95k PowerReviews URLs, appends “info:” to each URL and verifies that Google returns results. URLs that were not included in Google’s index were ran through a popular web crawler, Screaming Frog, to determine if the Googlebot search engine crawler encountered 4xx or 5xx errors for reasons not related to JS. If so, these URLs were isolated from URLs that properly rendered and indexed.
