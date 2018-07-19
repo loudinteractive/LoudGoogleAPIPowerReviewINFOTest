@@ -92,22 +92,12 @@ namespace Google_Custom_Search_API
 
 
                         var currentUrl = reviewUrl;
+
+                        var reviewQuery = "info:" + currentUrl;
                         
-                        if (reviewText.IndexOf(@"""")<=-1)
-                        {
-                            reviewText = @"""" + reviewText.ToString() + @"""";
-                        }
-                        
-                        GetFirst10ResultsPushToDatabase(reviewText.ToString(),reviewUrl.ToString());
+                        GetFirst10ResultsPushToDatabase(reviewQuery.ToString(),reviewUrl.ToString());
 
-                        if (reviewHeadline.IndexOf(@"""") <= -1)
-                        {
-                            reviewHeadline = @"""" + reviewHeadline.ToString() + @"""";
-                        }
 
-                        var reviewQuery = reviewText + " " + reviewHeadline;
-
-                        GetFirst10ResultsPushToDatabase(reviewQuery.ToString(), reviewUrl.ToString());
 
 
                         count++;
